@@ -6,4 +6,4 @@ This project Aims to provide the user with information regarding weather a game 
 
 - Aayush Kumar
 - Kushal Sinha
-- Mohomad Basim Alum
+- Mohomad Basim Alam
