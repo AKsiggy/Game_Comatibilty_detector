@@ -8,7 +8,7 @@ const port = 3000;
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
-const genAI = new GoogleGenerativeAI("AIzaSyBY5DHYBy8eSF4YIbb9_P4izzgdM7LfS18");
+const genAI = new GoogleGenerativeAI("Gemini_API_KEY");
 
 const model = genAI.getGenerativeModel({
     model: "gemini-1.5-flash",
